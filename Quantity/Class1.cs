@@ -8,5 +8,6 @@ namespace Quantity
 {
     public class Class1
     {
+
     }
 }
